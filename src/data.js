@@ -1,35 +1,43 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Agile Testing Fellow",
+    subtitle: "Ruby on Rails Engineer",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "ATF is a platform built for the courses given for Janet Gregory and Lisa Crispin, where fellows can take the assessment and get the certification.",
+    image: "./atf-project.png", 
+    link: "https://agiletestingfellow.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Folionet LLC",
+    subtitle: "Senior Ruby Software Developer",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reedbarger.com",
+      "Folionet LLC is a fintech with its focus is Latam and they offer trading, selling and buying cryptos.",
+    image: "./folio.png",
+    link: "https://folionet.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "trendig technology services GmbH",
+    subtitle: "Senior Python/Ruby Developer",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://jsbootcamp.com",
+      "Trendig has a lot of projects which they use by themselves, like: trendig.com, agiletestingdays.com and so on.",
+    image: "./trendig.png",
+    link: "https://trendig.com",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Meludus",
+    subtitle: "Senior Python Developer",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://pythonbootcamp.com",
+      "Meludus is platform where students who want to get a public job can study with custom tests and Meludus offers to them many kinds of way to study.",
+    image: "./meludus.png",
+    link: "https://meludus.com",
+  },
+  {
+    title: "Agrotratos",
+    subtitle: "Lead Ruby Developer",
+    description:
+      "Agrotratos is a agro-platform where users can offer their services or products.",
+    image: "./agrotratos.png",
+    link: "https://agrotratos.com.bo",
   },
 ];
 
