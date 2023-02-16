@@ -1,11 +1,27 @@
 export const projects = [
   {
     title: "Frezio Movil",
-    subtitle: "Lead Developer",
+    subtitle: "Lead Developer React Native/Node.js",
     description:
       "Frezio is mobile app which lets you control your AC, TV and more thing. Built with React Native and Node.js",
     image: "./frezio.png",
     link: "https://apps.apple.com/bo/app/frezio-movil/id1641980283?l=en",
+  },
+  {
+    title: "Agrotratos Mobile",
+    subtitle: "Lead Developer React Native",
+    description:
+      "Agrotratos is a agro-platform where users can offer their services or products.",
+    image: "./agrotratos-mobile.png",
+    link: "https://play.google.com/store/apps/details?id=com.agrotratosapp",
+  },
+  {
+    title: "Agrotratos",
+    subtitle: "Lead Ruby Developer",
+    description:
+      "Agrotratos is a agro-platform where users can offer their services or products.",
+    image: "./agrotratos.png",
+    link: "https://agrotratos.com.bo",
   },
   {
     title: "Agile Testing Fellow",
@@ -25,7 +41,7 @@ export const projects = [
   },
   {
     title: "trendig technology services GmbH",
-    subtitle: "Senior Python/Ruby Developer",
+    subtitle: "Senior Python/Ruby/React Native Developer",
     description:
       "Trendig has a lot of projects which they use by themselves, like: trendig.com, agiletestingdays.com and so on.",
     image: "./trendig.png",
@@ -38,15 +54,7 @@ export const projects = [
       "Meludus is platform where students who want to get a public job can study with custom tests and Meludus offers to them many kinds of way to study.",
     image: "./meludus.png",
     link: "https://meludus.com",
-  },
-  {
-    title: "Agrotratos",
-    subtitle: "Lead Ruby Developer",
-    description:
-      "Agrotratos is a agro-platform where users can offer their services or products.",
-    image: "./agrotratos.png",
-    link: "https://agrotratos.com.bo",
-  },
+  }
 ];
 
 export const testimonials = [
