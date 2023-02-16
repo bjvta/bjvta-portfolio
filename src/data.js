@@ -39,6 +39,14 @@ export const projects = [
     image: "./agrotratos.png",
     link: "https://agrotratos.com.bo",
   },
+  {
+    title: "Frezio Movil",
+    subtitle: "Lead Developer",
+    description:
+      "Frezio is mobile app which lets you control your AC, TV and more thing. Built with React Native and Node.js",
+    image: "./frezio.png",
+    link: "https://apps.apple.com/bo/app/frezio-movil/id1641980283?l=en",
+  },
 ];
 
 export const testimonials = [
@@ -64,6 +72,9 @@ export const skills = [
   "Ruby on Rails",
   "Django",
   "Flask",
+  "React",
+  "React Native",
+  "Node.js",
   "Docker",
   "Testing",
   "AWS",
