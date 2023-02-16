@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "Frezio Movil",
+    subtitle: "Lead Developer",
+    description:
+      "Frezio is mobile app which lets you control your AC, TV and more thing. Built with React Native and Node.js",
+    image: "./frezio.png",
+    link: "https://apps.apple.com/bo/app/frezio-movil/id1641980283?l=en",
+  },
+  {
     title: "Agile Testing Fellow",
     subtitle: "Ruby on Rails Engineer",
     description:
@@ -38,14 +46,6 @@ export const projects = [
       "Agrotratos is a agro-platform where users can offer their services or products.",
     image: "./agrotratos.png",
     link: "https://agrotratos.com.bo",
-  },
-  {
-    title: "Frezio Movil",
-    subtitle: "Lead Developer",
-    description:
-      "Frezio is mobile app which lets you control your AC, TV and more thing. Built with React Native and Node.js",
-    image: "./frezio.png",
-    link: "https://apps.apple.com/bo/app/frezio-movil/id1641980283?l=en",
   },
 ];
 
